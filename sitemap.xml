@@ -5,8 +5,9 @@
 <url> <loc>https://about.shinonome.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/community/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/company/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://about.shinonome.io/service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/playground/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://about.shinonome.io/service/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://about.shinonome.io/release/hiroen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/contact/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://about.shinonome.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
