@@ -13,6 +13,7 @@
 <url> <loc>https://shinonome.io/privacy-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shinonome.io/privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shinonome.io/security-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shinonome.io/release/meti-issue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shinonome.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shinonome.io/contact/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shinonome.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
