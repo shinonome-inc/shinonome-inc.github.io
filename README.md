@@ -1,9 +1,6 @@
-# About.Shinonome.io
+# shinonome.io 本番リポジトリ
 
-## How to deploy
+shinonome.io は GitHub Pages によってホスティングされています。
+サイト生成には Gatsby.js が使用されています。
 
-```
-$ gatsby build
-```
-
-Move the files inside the public into this directory with **CNAME**.
+開発リポジトリで開発を行ってください。
