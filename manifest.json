@@ -1,0 +1,5 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/hero.svg": "static/hero-e785f077f4c7005e6dd7331641640e9c.svg"
+}
