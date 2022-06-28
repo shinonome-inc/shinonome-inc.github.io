@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-index-js","path":"/releases/onsen-hackathon/","webpackCompilationHash":"e9b8dfe9f5c279c33244","result":{"errors":[{"message":"Unknown argument \"formatString\" on field \"date\" of type \"MarkdownRemarkFrontmatter\".","locations":[{"line":24,"column":12}]}],"pageContext":{"isCreatedByStatefulCreatePages":false}}}
